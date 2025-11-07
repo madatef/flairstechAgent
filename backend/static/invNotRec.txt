@@ -1,0 +1,10 @@
+How to Retrieve Missing Invoices
+
+If you did not receive your invoice, you can download it at any time:
+
+1. Log into your account.
+2. Go to "Billing History".
+3. Select the month you need.
+4. Download or print the invoice.
+
+If the invoice is still not available or you cannot access your billing history, reply to your ticket and we will send the invoice directly to your email.

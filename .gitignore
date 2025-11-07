@@ -1,0 +1,65 @@
+# === GENERAL ===
+.DS_Store
+Thumbs.db
+*.log
+*.env
+.env.*
+!.env.example
+venv/
+node_modules/
+dist/
+build/
+coverage/
+__pycache__/
+*.pyc
+*.pyo
+
+# === PYTHON BACKEND ===
+# Virtual environments
+.venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+*.pyd
+*.so
+*.dll
+
+# pytest cache
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# PyInstaller
+*.spec
+
+# Local database files
+*.sqlite3
+*.db
+
+# FastAPI / Django / Flask specific
+instance/
+media/
+staticfiles/
+
+# === REACT FRONTEND ===
+# Node
+/frontend/node_modules/
+
+# Build output
+/frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# === IDE / EDITOR ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === DOCKER ===
+docker-data/
+*.pid
