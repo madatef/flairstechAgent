@@ -1,6 +1,6 @@
 # Project Backend Setup Guide
 
-SOME EXAMPLE CHANGE
+SOME EXAMPLE CONFLICT
 
 ```
 cd backend
