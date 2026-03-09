@@ -1,6 +1,9 @@
 # Project Backend Setup Guide
 
+<<<<<<< Updated upstream
 SOME EXAMPLE CONFLICT
+=======
+>>>>>>> Stashed changes
 
 ```
 cd backend
