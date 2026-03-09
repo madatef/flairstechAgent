@@ -1,6 +1,6 @@
 # Project Backend Setup Guide
 
-
+DEMO THE NERGE COMMAND
 ```
 cd backend
 ```
