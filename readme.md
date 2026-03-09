@@ -3,7 +3,6 @@
 ```
 cd backend
 ```
-SOME LOCAL CHANGE
 
 ## 1. Create & Activate a Virtual Environment
 
